@@ -1,19 +1,168 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Hello World!</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-    <!-- All of the Node.js APIs are available in this renderer process. -->
-    We are using Node.js <script>document.write(process.versions.node)</script>,
-    Chromium <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
+<head>
 
-    <script>
-      // You can also require other files to run in this process
-      require('./renderer.js')
-    </script>
-  </body>
+  <title>Queensland Australia</title>
+
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="node_modules/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="node_modules/leaflet-search/dist/leaflet-search.min.css" />
+  <link rel="stylesheet" href="node_modules/leaflet.coordinates/dist/Leaflet.Coordinates-0.1.5.css" />
+  <script src="node_modules/leaflet/dist/leaflet.js"></script>
+  <script src="node_modules/leaflet-search/dist/leaflet-search.min.js"></script>
+  <script src="node_modules/leaflet.coordinates/dist/Leaflet.Coordinates-0.1.5.min.js"></script>
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+
+
+</head>
+<body>
+
+<div id='map'></div>
+
+<script>
+  var map = L.map('map', {
+    center: [39.73, -104.99],
+    center: [-26, 135],  // Australia
+    zoom: 4
+  });
+
+  L.control.coordinates({position: "bottomleft"}).addTo(map);
+
+  // GeoJSON
+
+  function onEachFeature(feature, layer)
+  {
+    if (feature.properties && feature.properties.name)
+    {
+      layer.bindTooltip(feature.properties.name, {permanent: false, opacity: 0.7}).openTooltip();
+    }
+  }
+
+  var citiesLayer = L.geoJSON(null, {
+    onEachFeature: onEachFeature,
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 8,
+        fillColor: "#0078ff",
+        color: "#000000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.5
+      });
+    }
+  });
+
+  var townsLayer = L.geoJSON(null, {
+    onEachFeature: onEachFeature,
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 6,
+        fillColor: "#404080",
+        color: "#000000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.5
+      });
+    }
+  });
+
+  var suburbLayer = L.geoJSON(null, {
+    onEachFeature: onEachFeature,
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 4,
+        fillColor: "#802020",
+        color: "#000000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.5
+      });
+    }
+  });
+
+  var villageLayer = L.geoJSON(null, {
+    onEachFeature: onEachFeature,
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 4,
+        fillColor: "#101020",
+        color: "#000000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.5
+      });
+    }
+  });
+
+  var hamletLayer = L.geoJSON(null, {
+    onEachFeature: onEachFeature,
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 4,
+        fillColor: "#802020",
+        color: "#000000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.5
+      });
+    }
+  });
+
+  $.getJSON( "queensland-latest-city.geojson", function( data ) {
+    citiesLayer.addData(data);
+          });
+  $.getJSON( "queensland-latest-town.geojson", function( data ) {
+    townsLayer.addData(data);
+          });
+  $.getJSON( "queensland-latest-suburb.geojson", function( data ) {
+      suburbLayer.addData(data);
+          });
+  $.getJSON( "queensland-latest-village.geojson", function( data ) {
+    villageLayer.addData(data);
+          });
+  $.getJSON( "queensland-latest-hamlet.geojson", function( data ) {
+    hamletLayer.addData(data);
+        });
+
+  var searchLayer = L.layerGroup([citiesLayer, townsLayer, suburbLayer, villageLayer, hamletLayer]);
+  var searchControl = new L.Control.Search({
+        layer: searchLayer,
+        propertyName: 'name',
+        moveToLocation: function(latlng, title, map) { map.setView(latlng); }
+    });              
+  map.addControl(searchControl);
+  map.removeLayer(searchLayer)
+
+  var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+      '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+      'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    mbUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+
+  var grayscale = L.tileLayer(mbUrl, {id: 'mapbox.light',   attribution: mbAttr});
+  var streets   = L.tileLayer(mbUrl, {id: 'mapbox.streets', attribution: mbAttr});
+
+  grayscale.addTo(map);
+
+  L.control.layers(
+    {"Grayscale": grayscale, "Streets": streets},
+    {"Cities": citiesLayer, "Towns": townsLayer, "Villages": villageLayer, "Suburbs": suburbLayer, "Hamlet": hamletLayer}
+  ).addTo(map);
+
+</script>
+
+
+
+</body>
 </html>

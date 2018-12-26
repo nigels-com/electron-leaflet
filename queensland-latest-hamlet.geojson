@@ -1,0 +1,6812 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    146.1900511,
+                    -19.0083592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Paluma QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.7833573,
+                    -19.1331632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "West Point QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0311275,
+                    -27.4419721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bowen Bridge QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0279698,
+                    -27.439274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Swan Hill QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0406557,
+                    -27.4381408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mayne QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0449973,
+                    -27.4400159
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Breakfast Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9966704,
+                    -27.4655396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "Qld",
+                "name": "Rosalie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0061325,
+                    -27.4216816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grange Heights QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9969364,
+                    -27.4506868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "Qld",
+                "name": "Ithaca QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.919493,
+                    -26.9302231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Warra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1480985,
+                    -27.4434814
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lindum QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1229994,
+                    -27.4365655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gibson Island QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0500588,
+                    -27.5221863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wellers Hill QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0783116,
+                    -27.4329586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Whinstanes QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1104715,
+                    -27.4243941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Meeandah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1384669,
+                    -27.3902321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Myrtletown QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9757795,
+                    -27.3875494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bunyaville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1393865,
+                    -27.4044273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bulwer Island QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.96555,
+                    -27.6113943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Banksia Village QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9739723,
+                    -27.6103658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brooklands QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.947919,
+                    -27.6070505
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Woods QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9751603,
+                    -27.6162778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hillbrook Village QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9689295,
+                    -27.6161062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Settlers Village QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.3106205,
+                    -27.6405459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Point Talburpin QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9640616,
+                    -27.6257741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Peninsula QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.2109828,
+                    -27.6749167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Logandale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.2754134,
+                    -27.8001716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Canowindra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.8970348,
+                    -27.5922272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Priors Pocket QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.8576164,
+                    -27.5827013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bremer Junction QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.8028479,
+                    -27.556787
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Colleges Crossing QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.7958935,
+                    -27.5584939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Devils Elbow QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.80715,
+                    -27.5686634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Stanton Cross QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0422932,
+                    -27.543611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nathan Heights QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0644558,
+                    -26.2780223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Teewah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.4221129,
+                    -27.8940714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Currigee QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.3679182,
+                    -27.0761857
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bulwer QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.01354,
+                    -27.458321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Normanby QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.7564467,
+                    -26.0019507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Neerdie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8150907,
+                    -25.6816745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ban Ban Springs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.864411,
+                    -21.3561745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Duchess QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.3014839,
+                    -21.0733998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Malbon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.2131105,
+                    -26.9607242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jimbour QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.4925708,
+                    -27.3043785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bowenville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.4512108,
+                    -27.1319187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Beppo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.5827375,
+                    -18.5799903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lawn Hill QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    138.7408295,
+                    -19.0282828
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Riversleigh QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.0381613,
+                    -20.030328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kajabbi QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9379944,
+                    -27.5452772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Hills QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8366933,
+                    -19.594928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Woodstock QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.3735005,
+                    -27.1777219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tangalooma QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.0451763,
+                    -26.2552621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Guluguba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.7200001,
+                    -27.3018563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Weranga QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.5994907,
+                    -27.2863689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Goranba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.7179559,
+                    -27.9207216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Westmar QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.5456078,
+                    -27.8908366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Flinton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.3804696,
+                    -27.4373094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Teelba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.247927,
+                    -26.3939729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Durong South QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.1296523,
+                    -26.55163
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Darr Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.0240704,
+                    -26.5083403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Burra Burri QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3850191,
+                    -24.7711044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bundaberg Port QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3925147,
+                    -26.052833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Woolooga QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.9821061,
+                    -26.640916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Drillham QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9477651,
+                    -28.5522292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Thulimbah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9715851,
+                    -28.4897768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dalveen QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0483083,
+                    -27.8669313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pilton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1007829,
+                    -27.8243273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hirstglen QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3885915,
+                    -27.1458993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ottaba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0680188,
+                    -26.882379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nukku QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8123844,
+                    -26.2681777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Chelmsford QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8030727,
+                    -26.3146736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Greenview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.3663568,
+                    -27.1253979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cowan Cowan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1339876,
+                    -27.6015905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lilydale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.3564349,
+                    -27.7349352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cabbage Tree Point QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5383414,
+                    -27.7639978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Walker QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8669142,
+                    -25.4752416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Didcot QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.1290183,
+                    -25.1341183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Abercorn QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5754801,
+                    -27.8025158
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Coleyville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.2839289,
+                    -20.3710401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Quamby QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.4087404,
+                    -27.5304032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenore Grove QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9226052,
+                    -28.0132401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Josephville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2471881,
+                    -28.2919614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tannymorel QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2465229,
+                    -28.2293268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Emu Vale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1344709,
+                    -28.1283615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Freestone QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.5644293,
+                    -28.2065969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Karara QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.1361938,
+                    -16.5282955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Carbine QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.2951282,
+                    -24.5693187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bauhinia Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6203628,
+                    -25.5759982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ideraway QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.4557744,
+                    -25.5127629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Binjour QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1901078,
+                    -26.4426404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elgin Vale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.9305517,
+                    -17.3425921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Petford QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.0767016,
+                    -27.0436008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Macalister QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.964509,
+                    -28.7227468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Beebo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1365658,
+                    -28.3764169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elbow Valley QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.6697187,
+                    -17.1959689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jenkins QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1197321,
+                    -28.0429888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Goomburra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2093916,
+                    -27.6088797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Winwill QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.4484647,
+                    -27.5672229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bongeen QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2581161,
+                    -27.6576313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ropeley QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.5586892,
+                    -12.0934416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bramwell Junction QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1951742,
+                    -28.126238
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Beechmont QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.746344,
+                    -21.1430686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lumburra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7415365,
+                    -21.0826588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kungurri QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7514057,
+                    -21.0855039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gueyan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6148557,
+                    -21.1437999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kowari QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.0359897,
+                    -24.7625787
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moonford QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.3830222,
+                    -24.5284325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Builyan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.3232304,
+                    -24.4057012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ubobo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.6855478,
+                    -27.9173848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Roadvale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7514495,
+                    -21.1665246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Gap QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9623537,
+                    -27.7198546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ramsay QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5506264,
+                    -27.1187031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Somerset Dam QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8272908,
+                    -27.2240327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kilbirnie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2390547,
+                    -28.0716799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Maryvale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3506997,
+                    -20.9283451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Urannah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8344184,
+                    -21.6723269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rankins Lagoon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8335681,
+                    -21.6362212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wambrook QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0936478,
+                    -21.3258293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glendon Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7952324,
+                    -28.9699452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hebel QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2490367,
+                    -21.5297021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Elphinstone Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5348523,
+                    -21.4847288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Carrinyah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0814517,
+                    -21.6399691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Burton Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.1896836,
+                    -27.3426413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Gums QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3863251,
+                    -26.585261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Muckadilla QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5238714,
+                    -21.4415385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Homevale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.178916,
+                    -21.3576158
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Hillalong Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2442914,
+                    -21.1683198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Turrawulla Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.221096,
+                    -21.0714835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Blenheim Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3015494,
+                    -21.0459704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cloverly Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1175845,
+                    -21.1141656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Redcliffe Vale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8307384,
+                    -20.7935478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Havilah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3991803,
+                    -21.1756965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eungella Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3078684,
+                    -21.2930167
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Exevale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1246102,
+                    -20.9480643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Exmoor Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.931791,
+                    -21.0857066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Byerwen Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9423456,
+                    -21.0429327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Weetalaba Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.94797,
+                    -20.7797897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gatton Vale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0824816,
+                    -20.6804392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dartmoor Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6435042,
+                    -27.5210948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aubigny QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.546314,
+                    -21.5726854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kianga Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9867225,
+                    -21.3395763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Suttor Creek Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8287694,
+                    -21.3456052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wollombi Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.688276,
+                    -27.302397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Acland QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6878653,
+                    -27.2730682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Muldu QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.627084,
+                    -27.2287993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brymaroo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7314912,
+                    -27.1574154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Evergreen QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.2626452,
+                    -23.8466014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dululu QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.3713109,
+                    -24.1966146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jambin QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7653343,
+                    -27.1322052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Highgrove QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.863456,
+                    -27.1088173
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Coalbank QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9689354,
+                    -27.2804379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Plainby QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9994165,
+                    -21.5276615
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Blue Mountain Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9685947,
+                    -21.4829185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glensfield Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.378852,
+                    -21.6058628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kemmis Creek Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4525806,
+                    -21.5621257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fort Cooper Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0716708,
+                    -20.8021733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Emu Plains Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8122523,
+                    -21.961062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cockenzie Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.2902378,
+                    -23.6477813
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bogantungan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.718457,
+                    -27.555922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Biddeston QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1398319,
+                    -27.0660292
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nukinenda QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0940326,
+                    -27.1483525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Anduramba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.046798,
+                    -28.1616852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eulo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0493079,
+                    -26.0414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tansey QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.6019603,
+                    -20.8705989
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prairie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7613282,
+                    -25.5228076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Byrnestown QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8078013,
+                    -25.5131955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gooroolba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.263666,
+                    -25.6012781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brooweena QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5903825,
+                    -25.6020973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mungar QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5418462,
+                    -25.833038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gundiah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5442411,
+                    -25.9460671
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Theebine QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5179686,
+                    -26.2131972
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glastonbury QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.7747076,
+                    -26.5537806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gheerulla QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7844613,
+                    -28.0864835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pratten QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.3516041,
+                    -10.8925351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Umagico QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.8705122,
+                    -28.4167946
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Toobeah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.2852765,
+                    -24.3528398
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Stonehenge QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8222898,
+                    -27.5135258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gowrie Mountain QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8486189,
+                    -27.5194066
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Charlton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8930475,
+                    -27.4901915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gowrie Junction QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9185188,
+                    -27.4245587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Meringandan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.588412,
+                    -27.8175247
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Noccundra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.7120926,
+                    -27.7207409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nockatunga QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.1060816,
+                    -27.5960822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nappa Merrie HS QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.5467279,
+                    -22.3507964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Middleton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.9786037,
+                    -18.9994879
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Greenvale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6951979,
+                    -27.1451616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Peranga QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9559056,
+                    -28.0717923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hendon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.3421134,
+                    -16.4759729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mossman Gorge Aboriginal Community QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.383015,
+                    -10.8666672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New Mapoon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1143493,
+                    -21.6386009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bolingbroke Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9736938,
+                    -28.7748717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eukey QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9534491,
+                    -28.7369293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Tully QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8665115,
+                    -28.860509
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wyberba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8478038,
+                    -28.7667223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fletcher QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5457345,
+                    -22.360793
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kilcummin Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6331917,
+                    -22.4226971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yackadoo Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.1146885,
+                    -22.5447498
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kalang Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5676771,
+                    -22.4754491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Niagara Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.0968357,
+                    -22.5070511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Charton Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5501076,
+                    -22.4276955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Coovin Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.1091953,
+                    -22.5969006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Monteagle Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.4999395,
+                    -22.4487583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mutation Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.356259,
+                    -22.4328722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cairo Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5157452,
+                    -22.3119678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Travellon Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6519886,
+                    -22.5216006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenmore Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7245198,
+                    -22.4192853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Undara Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7561012,
+                    -22.2795709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Boolaroo Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.4900862,
+                    -22.3146714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Calveston Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.4916268,
+                    -22.24557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Golden Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6999679,
+                    -22.329916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenlea Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7278672,
+                    -22.4781495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "West Wolfang Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7061177,
+                    -22.2734472
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Windradene Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.512312,
+                    -22.2374624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moramana Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5059949,
+                    -22.2802817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Paradise Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6033604,
+                    -22.2923554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aroa Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6867586,
+                    -22.3825405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ken Logan Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.4698046,
+                    -26.6455344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Cooladdi QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.0145636,
+                    -26.6295874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Cheepie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.3444838,
+                    -19.2237193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Burke and Wills QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7335944,
+                    -20.9462924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Camerons Pocket QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6504554,
+                    -20.835468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yalboroo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.9191449,
+                    -21.858948
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cannington Mine QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.9216887,
+                    -21.5795808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kynuna QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.140735,
+                    -23.7636561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Diamantina National Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2709713,
+                    -20.1495894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Miowera Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.5603977,
+                    -17.8614016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strathmore QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.6032302,
+                    -17.4247859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tarzali QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.6339638,
+                    -19.8793136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mingela QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.390138,
+                    -19.0453837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rollingstone QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.151639,
+                    -23.9586452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "River Ranch QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.1090423,
+                    -23.9485147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "West Stowe QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.3998821,
+                    -24.0671692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Iveragh QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3229666,
+                    -20.696026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Crompton Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1483334,
+                    -20.7288239
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sutherland Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9999585,
+                    -20.5871517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Springlands Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1782714,
+                    -22.126454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Winchester Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3791163,
+                    -22.1641982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Deverill Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2975728,
+                    -22.1219994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Olive Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3671362,
+                    -20.5341767
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cattle Vale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3982992,
+                    -20.5583855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Amelia Vale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2177795,
+                    -20.3060061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Roma Peak Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2772994,
+                    -20.5956863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Shannonvale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8721271,
+                    -21.8425463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Waitara Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7832751,
+                    -21.85499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hamilton Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9929767,
+                    -21.7073561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wandoo Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0800607,
+                    -22.0366204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Grosvenor Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0539253,
+                    -22.0405382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kurrali Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5467265,
+                    -21.7091728
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mountview Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4956357,
+                    -21.7431592
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strathfield Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.5287402,
+                    -22.1081162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Clairview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0025289,
+                    -21.5068551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lenton Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9833806,
+                    -21.5597982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wards Well QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9300502,
+                    -21.6235563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Denham Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1055277,
+                    -22.1030031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Coolibah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9711827,
+                    -22.2208339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Lebanon Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8910002,
+                    -22.1349463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rugby Run Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8348068,
+                    -22.207129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Charlton Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6947039,
+                    -22.1353805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kulawin Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.773281,
+                    -22.1074563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Midden Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.721873,
+                    -22.0662921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wentford Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9524604,
+                    -22.3599059
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Logan Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0605871,
+                    -21.6940546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Red Hill Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8563884,
+                    -22.5516931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Littledate Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8417093,
+                    -22.6076613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "New Corry Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8095526,
+                    -22.6807142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barrylar Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3873018,
+                    -21.6810072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "St Albands Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2095689,
+                    -21.690934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ellensfield QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.688647,
+                    -21.4894845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eaglefield Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9342451,
+                    -21.4494679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lancewood Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.2187895,
+                    -10.555261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "St Josephs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4376448,
+                    -21.8783819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oben Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6043315,
+                    -21.8979782
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mt Flora Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6854037,
+                    -21.7742057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fairview Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7045381,
+                    -21.7306572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Waratah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9541727,
+                    -21.9552973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oakdare Holdings QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6952728,
+                    -21.7191261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Banksowna QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6858538,
+                    -21.7680679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mystery Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5307361,
+                    -21.8859512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harry Brandt QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3871354,
+                    -21.8990017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lycullin QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1644541,
+                    -22.0003138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wotonga Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6873359,
+                    -21.8015837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dilkera Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2918306,
+                    -21.9405619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Annandale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2054839,
+                    -22.039563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tarkari Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.035794,
+                    -21.714851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Riverside Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.916026,
+                    -21.3562466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mountain Springs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7112557,
+                    -21.6825528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jammar QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7117753,
+                    -21.6832053
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Waratah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8080117,
+                    -21.4771516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Our Retreat Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.0355739,
+                    -21.8543155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tierawoomba Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3519352,
+                    -22.0724293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Daunia Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4313777,
+                    -22.258264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Vermont Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4320729,
+                    -22.2379847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Iffley Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3517363,
+                    -22.0288411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mavis Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4808889,
+                    -22.1145674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Twenty Mile Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.4824006,
+                    -22.3069171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Seloh Nolem QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.576253,
+                    -22.2016211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lilllianvale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5731629,
+                    -22.0411448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Valkyrie Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0355364,
+                    -22.1443627
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Buffel Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2940571,
+                    -21.9483016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moorvale Station QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5920204,
+                    -21.846283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mindi QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5315119,
+                    -21.8639878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tootoolah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9133265,
+                    -22.136591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Saltbush Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.4938498,
+                    -21.6694737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Dore Village QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1013945,
+                    -22.0075451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Morambah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5031715,
+                    -22.1297909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Coobyanga Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5884883,
+                    -22.0615973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Diamond Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.4157951,
+                    -22.0231876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dooruna Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5729992,
+                    -22.0972325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ellenor Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5733349,
+                    -22.1650413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Vicenza Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5530499,
+                    -22.0136917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marracoonda Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.4548059,
+                    -22.0523742
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Well Plains Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6403852,
+                    -22.1390878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brolga Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5728555,
+                    -21.9949368
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nugaroo Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5870964,
+                    -22.2108945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Solferino Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5707338,
+                    -22.206054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Manar Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6839423,
+                    -22.225847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wondabah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.4431738,
+                    -22.2753102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Wilkin QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6812127,
+                    -21.8683189
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wyena Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7695109,
+                    -21.7067613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hibberena Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7475041,
+                    -21.6909208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Feed Locks Sondella QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7500937,
+                    -21.6962726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Sundella Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6432797,
+                    -21.6845967
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barellan Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6784186,
+                    -21.6915094
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wavering Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5902214,
+                    -21.9091964
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mullawa QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.559213,
+                    -21.725634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pasha Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5483738,
+                    -21.7284197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ulcanbah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    142.769666,
+                    -23.2465569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Opalton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7613943,
+                    -22.569318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Curragundi Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.0296624,
+                    -23.44703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Nebea Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8367364,
+                    -23.524786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Carinya Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.863816,
+                    -23.4530636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kerand Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8047538,
+                    -23.4506718
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kalbar Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8222311,
+                    -23.5372785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Melton Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9147136,
+                    -23.6528227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Port Wine QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2799852,
+                    -20.0355809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yumbabullo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0034797,
+                    -20.2388164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moss Vale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9495136,
+                    -20.2330583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aberdeen Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5437689,
+                    -20.151373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strathbogie Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.5323325,
+                    -20.6703727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Heidelberg Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.663161,
+                    -20.6718694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Birralee Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9104968,
+                    -20.2898429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Pleasant Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.113799,
+                    -20.5595449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenroy Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9279756,
+                    -20.5092489
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Saint Pauls Scrub QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9760328,
+                    -20.4350759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Ravenswood Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9639172,
+                    -20.3207083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lulu Pocket QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.045392,
+                    -20.3458691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rangeview Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8600835,
+                    -20.2906569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Carse O Gowrie Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.7967619,
+                    -20.3563507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Saint Pauls Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.7889728,
+                    -20.5183126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Cooper Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.6402711,
+                    -20.6912045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harvest Home Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8485178,
+                    -20.8082537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lornesleigh Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9130066,
+                    -20.3936998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Two Creek Hut QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8462732,
+                    -20.2525346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Connolly Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.87562,
+                    -20.2034573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brookville Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8582251,
+                    -20.1340684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kirkton Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9158754,
+                    -20.1376847
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Plumwood Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.3237456,
+                    -20.2649617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Johnnycake Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.6302899,
+                    -20.3015859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Warrawee Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7759176,
+                    -20.2145169
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eton Vale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.3008142,
+                    -20.1753429
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strathalbyn Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.2945577,
+                    -20.2712981
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dalbeg Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6310783,
+                    -20.0516324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Castleview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0026673,
+                    -19.9763637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Salisbury Plains Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2339137,
+                    -20.2043443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Milwarpa Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.7830651,
+                    -21.345027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Lookout QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.1982762,
+                    -23.5636916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Narama Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.405164,
+                    -24.2571621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mandu Stud QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.4812086,
+                    -22.0217484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hazlewood QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.485597,
+                    -22.0401731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Joyview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.511201,
+                    -22.1726418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rangeview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.441099,
+                    -22.4382424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rosedale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.4961169,
+                    -22.473957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Prospect Hill QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.5283464,
+                    -22.5256987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Granate Vale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.5152923,
+                    -22.6416862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Montrose QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0370016,
+                    -24.4939654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rules Beach QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9300868,
+                    -24.5020474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wartburg QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.2756666,
+                    -21.6264239
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Turtle Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.624943,
+                    -22.6051488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Riverview Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.6787997,
+                    -22.6874697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wyelangata Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.4109055,
+                    -28.9965462
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Hungerford QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.2432417,
+                    -23.006905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Canoona Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5579391,
+                    -21.9776715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Valkyrie Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6197826,
+                    -22.3280145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Willunga Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5467202,
+                    -22.1915029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lillianvale Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6698339,
+                    -22.3659597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Old Bombandy Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6520452,
+                    -22.562542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cosmos Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6537621,
+                    -22.5741088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tiny Downs Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6791461,
+                    -22.6782905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Farlane Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8520311,
+                    -22.9325497
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Carlo Creek Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6770337,
+                    -23.074128
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mt Stuart Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.7311091,
+                    -23.1480548
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dalareen Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1370874,
+                    -22.9357862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Junee Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8857866,
+                    -23.0409228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barwon Park Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8402501,
+                    -23.5626356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Malamy Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.6110627,
+                    -23.589219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "River Lea Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5837581,
+                    -23.5969275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wattle Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3191453,
+                    -23.5659547
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Destiny Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.2246042,
+                    -23.5486316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kielys Farm QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.283525,
+                    -23.5558457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marylands QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.5393856,
+                    -23.6077091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Anvilee Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.0541904,
+                    -23.581717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lindstey Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1696596,
+                    -23.612834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ben Lee Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.3477577,
+                    -23.6023933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Redbank QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.3155713,
+                    -23.646902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fairveiw Park Homstead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.2511927,
+                    -23.6335862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fairveiw Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3597582,
+                    -24.7914884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fairymead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9367607,
+                    -21.3568054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bunyala QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8712287,
+                    -22.3366171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gundaroo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9266943,
+                    -23.1435956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jellinbah Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.9249833,
+                    -23.1018373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wilpeena Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.167456,
+                    -23.5992596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Huxman QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.313584,
+                    -22.5206449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tae Glen QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.1773062,
+                    -22.2760315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kalari Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.3415443,
+                    -22.417963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lake Vermont QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.940478,
+                    -21.3694151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bunyala QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.950861,
+                    -22.4045049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jimbaroo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.9136101,
+                    -22.4808749
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Fletchers Awl QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.795259,
+                    -22.5807345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wallton Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.8217884,
+                    -22.5575887
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wolfang Park QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.073552,
+                    -23.097735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Summerhill QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.0768972,
+                    -23.0988881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kurrajong QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.549833,
+                    -23.1421971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lyra Park QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.0584378,
+                    -22.9820265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Glenavon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.3679499,
+                    -23.1427611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "River Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1997803,
+                    -22.1186123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marylands QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1650413,
+                    -21.9871232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ridgeland QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.2812919,
+                    -22.3561385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Killarney QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.5752512,
+                    -22.9954164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Apis Creek Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.8256338,
+                    -23.3960572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Minnie Plains Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.5680994,
+                    -17.0915778
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Njinjilki QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1674082,
+                    -22.4629282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Croydon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    148.985109,
+                    -28.6049761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Daymar QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.7179463,
+                    -26.062803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Langlo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.7133543,
+                    -25.534424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Scrubby Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.8498888,
+                    -25.0867262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Minnie Downs QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1020613,
+                    -28.2060384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "The Hermitage QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.0002362,
+                    -24.9083931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Macfarlane QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.8633659,
+                    -22.9707235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Morella QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.3896539,
+                    -22.9535029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Camoola QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.3698579,
+                    -21.7100645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Corfield QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    143.5755296,
+                    -23.9112565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tocal QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0073492,
+                    -24.7432142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Waterloo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.1467319,
+                    -27.4848195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Humeburn QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.903329,
+                    -27.6529702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Coongoola QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.4396348,
+                    -24.8032052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mon Repos QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1869733,
+                    -24.6726931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Miara QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.397557,
+                    -24.9907613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kinkuna QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.4245524,
+                    -24.9296164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Calavos QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0925889,
+                    -24.6058471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mullett Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0247547,
+                    -24.6457413
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Watalgan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3771891,
+                    -24.9314254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Clayton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0296298,
+                    -24.837838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Abbotsford QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5912361,
+                    -25.1700748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Walkers Point QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3830339,
+                    -25.1044068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Goodwood QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2834291,
+                    -25.051386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "North Gregory QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2904625,
+                    -25.106803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Farnsfield QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3270752,
+                    -25.2021516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Abington QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3668159,
+                    -25.2629016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Isis River QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1625893,
+                    -25.2521373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Eureka QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1892944,
+                    -25.3237211
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gigoom QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2419421,
+                    -25.3049151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kullogum QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1488293,
+                    -25.1029549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Promisedland QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.5627241,
+                    -27.9313057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tummaville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8843978,
+                    -26.1923002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barlil QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8510477,
+                    -26.188803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Byee QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6543983,
+                    -26.1778287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kinleymore QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7485396,
+                    -26.155974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Marshlands QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7927058,
+                    -26.152073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Silverleaf QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8329275,
+                    -26.1509504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Warnung QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6772428,
+                    -26.8272207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wengenville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8450229,
+                    -26.2212927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wheatlands QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.8306816,
+                    -26.0302463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Windera QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.933143,
+                    -25.2676008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Good Night QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.6739295,
+                    -26.4327229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gordonbrook QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.5903091,
+                    -26.7605555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alice Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.4068678,
+                    -16.3927118
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rocky Point QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.2230784,
+                    -27.7217146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Sylvia QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.2279748,
+                    -19.7836029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Clare QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3586822,
+                    -26.974537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Harlin QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0124894,
+                    -26.3059378
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moffatdale QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.3704392,
+                    -27.7171541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Moonie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0068631,
+                    -28.2159757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Hillview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.6695534,
+                    -20.063878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Oak Vally Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.7525612,
+                    -20.0018334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kirk River Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9956284,
+                    -28.2368992
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lamington QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9915566,
+                    -28.1739399
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Christmas Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3214866,
+                    -25.6113036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Aramara QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3670985,
+                    -25.5018445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Musket Flat QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3187526,
+                    -25.5523678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "North Aramara QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    140.8426632,
+                    -22.1676531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Toolebuc QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9819611,
+                    -27.8127912
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ascot QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.1893119,
+                    -27.8024496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Junction View QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.041423,
+                    -26.9326339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yanna QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.7721266,
+                    -27.8004069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Felton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.0308471,
+                    -28.0703899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Marshall QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.9239557,
+                    -28.0503468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ellinthorp QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    147.6259732,
+                    -20.4978784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Strathmore Homestead QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.747764,
+                    -27.4766028
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lake Manchester QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.5169573,
+                    -27.6264141
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Irongate QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.2103007,
+                    -17.1387681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mutchilba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.7835972,
+                    -28.2628477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Barney View QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.6401281,
+                    -19.259142
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Jensen QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.668627,
+                    -19.233021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mount Low QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.747771,
+                    -25.272463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dundowran Beach QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.253891,
+                    -28.100555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kooroongarra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.676387,
+                    -19.192307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bushland Beach QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.554443,
+                    -28.615086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Kurumbul QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.726707,
+                    -25.278775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Craignish QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.766173,
+                    -25.294928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Dundowran QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    141.9025082,
+                    -12.019056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mapoon QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9543822,
+                    -26.5156274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "North Arm QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.78022,
+                    -26.3197983
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Traveston QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.4083,
+                    -19.01634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Balgal Beach QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.3416595,
+                    -15.9333334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Bloomfield QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.866534,
+                    -16.90642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Yarrabah QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.8766176,
+                    -25.6797979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tuan QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.4897175,
+                    -28.2939682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gore QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.30354,
+                    -23.9894395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Wurdong Heights QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.8493871,
+                    -26.3350757
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Pinbarren QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.9471025,
+                    -19.424926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Alligator Creek QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.5483065,
+                    -17.1683315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tinaroo QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.5007486,
+                    -27.5020669
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brightview QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.4608802,
+                    -27.4911414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lockrose QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.89222,
+                    -27.41667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Meringandan West QLD"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

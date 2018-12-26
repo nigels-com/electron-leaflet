@@ -1,0 +1,246 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    151.953351,
+                    -27.5610193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Toowoomba QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.7608702,
+                    -27.6160135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Ipswich QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    145.7721854,
+                    -16.9206657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Cairns QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    146.8239537,
+                    -19.2569391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Townsville QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.7019182,
+                    -25.537583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Maryborough QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.8535216,
+                    -25.2985784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Hervey Bay QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.4145987,
+                    -28.0023731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gold Coast QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.3516785,
+                    -24.8653253
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Bundaberg QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    151.256132,
+                    -23.8431724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gladstone QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    139.4931522,
+                    -20.7289898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Mount Isa QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0234991,
+                    -27.4689682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Brisbane QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.031184,
+                    -28.2165303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_in:state_code": "QLD",
+                "name": "Warwick QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    149.1865149,
+                    -21.141956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Mackay QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.6600256,
+                    -26.1900447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Gympie QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.1354434,
+                    -26.7981633
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Caloundra QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    153.0946684,
+                    -26.6556523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Maroochydore QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    150.5134442,
+                    -23.3782501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Rockhampton QLD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    152.9510863,
+                    -27.0839336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Caboolture QLD"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
