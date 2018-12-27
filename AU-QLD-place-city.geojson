@@ -9,7 +9,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Toowoomba QLD"
             },
             "type": "Feature"
@@ -49,7 +48,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Townsville QLD"
             },
             "type": "Feature"
@@ -63,7 +61,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Maryborough QLD"
             },
             "type": "Feature"
@@ -77,7 +74,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Hervey Bay QLD"
             },
             "type": "Feature"
@@ -104,7 +100,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Bundaberg QLD"
             },
             "type": "Feature"
@@ -131,7 +126,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mount Isa QLD"
             },
             "type": "Feature"
@@ -158,7 +152,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Warwick QLD"
             },
             "type": "Feature"

@@ -5456,7 +5456,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Coolangatta QLD"
             },
             "type": "Feature"

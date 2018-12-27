@@ -22,7 +22,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mount Nebo QLD"
             },
             "type": "Feature"
@@ -101,7 +100,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Glen Aplin QLD"
             },
             "type": "Feature"
@@ -128,7 +126,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Imbil QLD"
             },
             "type": "Feature"
@@ -142,7 +139,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Amity Point QLD"
             },
             "type": "Feature"
@@ -156,7 +152,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Point Lookout QLD"
             },
             "type": "Feature"
@@ -222,7 +217,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Dunwich QLD"
             },
             "type": "Feature"
@@ -262,7 +256,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Laura QLD"
             },
             "type": "Feature"
@@ -276,7 +269,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Yelarbon QLD"
             },
             "type": "Feature"
@@ -342,7 +334,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Helidon QLD"
             },
             "type": "Feature"
@@ -616,7 +607,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "St Pauls QLD"
             },
             "type": "Feature"
@@ -630,7 +620,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Kubin QLD"
             },
             "type": "Feature"
@@ -943,7 +932,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "The Summit QLD"
             },
             "type": "Feature"
@@ -1386,7 +1374,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Ballandean QLD"
             },
             "type": "Feature"
@@ -2388,7 +2375,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Boulia QLD"
             },
             "type": "Feature"
@@ -2532,7 +2518,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Yaraka QLD"
             },
             "type": "Feature"
@@ -2754,7 +2739,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Wyandra QLD"
             },
             "type": "Feature"

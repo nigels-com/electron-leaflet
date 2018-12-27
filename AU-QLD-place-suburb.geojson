@@ -61,7 +61,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Coolangatta QLD"
             },
             "type": "Feature"
@@ -75,7 +74,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Toowong QLD"
             },
             "type": "Feature"
@@ -180,7 +178,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Windsor QLD"
             },
             "type": "Feature"
@@ -311,7 +308,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Forest Lake QLD"
             },
             "type": "Feature"
@@ -429,7 +425,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Indooroopilly QLD"
             },
             "type": "Feature"
@@ -508,7 +503,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Dorrington QLD"
             },
             "type": "Feature"
@@ -535,7 +529,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Upper Mount Gravatt QLD"
             },
             "type": "Feature"
@@ -588,7 +581,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Nundah QLD"
             },
             "type": "Feature"
@@ -615,7 +607,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Chermside QLD"
             },
             "type": "Feature"
@@ -850,7 +841,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Springwood QLD"
             },
             "type": "Feature"
@@ -994,7 +984,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Carindale QLD"
             },
             "type": "Feature"
@@ -1359,7 +1348,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mitchelton QLD"
             },
             "type": "Feature"
@@ -1646,7 +1634,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Capalaba QLD"
             },
             "type": "Feature"
@@ -2258,7 +2245,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Moggill QLD"
             },
             "type": "Feature"
@@ -2337,7 +2323,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Mount Ommaney QLD"
             },
             "type": "Feature"
@@ -3027,7 +3012,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Strathpine QLD"
             },
             "type": "Feature"
@@ -3717,7 +3701,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Taringa QLD"
             },
             "type": "Feature"
@@ -8138,7 +8121,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Enoggera QLD"
             },
             "type": "Feature"
@@ -10505,7 +10487,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Doolandella QLD"
             },
             "type": "Feature"

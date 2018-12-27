@@ -9,7 +9,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Dalby QLD"
             },
             "type": "Feature"
@@ -75,7 +74,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Noosa Heads QLD"
             },
             "type": "Feature"
@@ -89,7 +87,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Longreach QLD"
             },
             "type": "Feature"
@@ -116,7 +113,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "Qld",
                 "name": "Stanthorpe QLD"
             },
             "type": "Feature"
@@ -130,7 +126,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Beerwah QLD"
             },
             "type": "Feature"
@@ -144,7 +139,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Kilcoy QLD"
             },
             "type": "Feature"
@@ -158,7 +152,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Kenilworth QLD"
             },
             "type": "Feature"
@@ -185,7 +178,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Innisfail QLD"
             },
             "type": "Feature"
@@ -199,7 +191,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Gordonvale QLD"
             },
             "type": "Feature"
@@ -213,7 +204,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mossman QLD"
             },
             "type": "Feature"
@@ -227,7 +217,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mitchell QLD"
             },
             "type": "Feature"
@@ -241,7 +230,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Palmwoods QLD"
             },
             "type": "Feature"
@@ -255,7 +243,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Goondiwindi QLD"
             },
             "type": "Feature"
@@ -282,7 +269,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Kandanga QLD"
             },
             "type": "Feature"
@@ -296,7 +282,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Amamoor QLD"
             },
             "type": "Feature"
@@ -310,7 +295,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Tiaro QLD"
             },
             "type": "Feature"
@@ -324,7 +308,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Boonah QLD"
             },
             "type": "Feature"
@@ -338,7 +321,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Rathdowney QLD"
             },
             "type": "Feature"
@@ -352,7 +334,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Pomona QLD"
             },
             "type": "Feature"
@@ -366,7 +347,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Bamaga QLD"
             },
             "type": "Feature"
@@ -380,7 +360,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Coen QLD"
             },
             "type": "Feature"
@@ -394,7 +373,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Gin Gin QLD"
             },
             "type": "Feature"
@@ -408,7 +386,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Childers QLD"
             },
             "type": "Feature"
@@ -474,7 +451,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Yungaburra QLD"
             },
             "type": "Feature"
@@ -488,7 +464,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Surat QLD"
             },
             "type": "Feature"
@@ -502,7 +477,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Charleville QLD"
             },
             "type": "Feature"
@@ -516,7 +490,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Quilpie QLD"
             },
             "type": "Feature"
@@ -543,7 +516,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Crows Nest QLD"
             },
             "type": "Feature"
@@ -557,7 +529,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Hampton QLD"
             },
             "type": "Feature"
@@ -571,7 +542,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Nanango QLD"
             },
             "type": "Feature"
@@ -585,7 +555,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Gayndah QLD"
             },
             "type": "Feature"
@@ -599,7 +568,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Collinsville QLD"
             },
             "type": "Feature"
@@ -613,7 +581,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Scottville QLD"
             },
             "type": "Feature"
@@ -627,7 +594,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mulgildie QLD"
             },
             "type": "Feature"
@@ -641,7 +607,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Monto QLD"
             },
             "type": "Feature"
@@ -681,7 +646,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Jericho QLD"
             },
             "type": "Feature"
@@ -695,7 +659,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Alpha QLD"
             },
             "type": "Feature"
@@ -709,7 +672,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Winton QLD"
             },
             "type": "Feature"
@@ -723,7 +685,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Cloncurry QLD"
             },
             "type": "Feature"
@@ -737,7 +698,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Normanton QLD"
             },
             "type": "Feature"
@@ -751,7 +711,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Karumba QLD"
             },
             "type": "Feature"
@@ -765,7 +724,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Croydon QLD"
             },
             "type": "Feature"
@@ -779,7 +737,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Ravenshoe QLD"
             },
             "type": "Feature"
@@ -793,7 +750,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Cooktown QLD"
             },
             "type": "Feature"
@@ -807,7 +763,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Tully QLD"
             },
             "type": "Feature"
@@ -821,7 +776,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "El Arish QLD"
             },
             "type": "Feature"
@@ -835,7 +789,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Dajarra QLD"
             },
             "type": "Feature"
@@ -849,7 +802,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Biggenden QLD"
             },
             "type": "Feature"
@@ -863,7 +815,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Kilkivan QLD"
             },
             "type": "Feature"
@@ -877,7 +828,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Mount Morgan QLD"
             },
             "type": "Feature"
@@ -891,7 +841,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Millmerran QLD"
             },
             "type": "Feature"
@@ -918,7 +867,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Julia Creek QLD"
             },
             "type": "Feature"
@@ -932,7 +880,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Richmond QLD"
             },
             "type": "Feature"
@@ -946,7 +893,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Nelia QLD"
             },
             "type": "Feature"
@@ -960,7 +906,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Hughenden QLD"
             },
             "type": "Feature"
@@ -974,7 +919,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Cape Tribulation QLD"
             },
             "type": "Feature"
@@ -988,7 +932,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Rosewood QLD"
             },
             "type": "Feature"
@@ -1028,7 +971,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Clermont QLD"
             },
             "type": "Feature"
@@ -1055,7 +997,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Herberton QLD"
             },
             "type": "Feature"
@@ -1082,7 +1023,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Tara QLD"
             },
             "type": "Feature"
@@ -1096,7 +1036,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Chinchilla QLD"
             },
             "type": "Feature"
@@ -1123,7 +1062,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Jandowae QLD"
             },
             "type": "Feature"
@@ -1150,7 +1088,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Cecil Plains QLD"
             },
             "type": "Feature"
@@ -1164,7 +1101,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Oakey QLD"
             },
             "type": "Feature"
@@ -1191,7 +1127,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Woodford QLD"
             },
             "type": "Feature"
@@ -1205,7 +1140,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Marburg QLD"
             },
             "type": "Feature"
@@ -1219,7 +1153,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Lowood QLD"
             },
             "type": "Feature"
@@ -1233,7 +1166,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Burketown QLD"
             },
             "type": "Feature"
@@ -1351,7 +1283,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Injune QLD"
             },
             "type": "Feature"
@@ -1391,7 +1322,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Canungra QLD"
             },
             "type": "Feature"
@@ -1444,7 +1374,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Thargomindah QLD"
             },
             "type": "Feature"
@@ -1510,7 +1439,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Blackall QLD"
             },
             "type": "Feature"
@@ -1693,7 +1621,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Port Douglas QLD"
             },
             "type": "Feature"
@@ -1811,7 +1738,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Ingham QLD"
             },
             "type": "Feature"
@@ -1929,7 +1855,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Rolleston QLD"
             },
             "type": "Feature"
@@ -1943,7 +1868,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Springsure QLD"
             },
             "type": "Feature"
@@ -2126,7 +2050,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Windorah QLD"
             },
             "type": "Feature"
@@ -2218,7 +2141,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "St George QLD"
             },
             "type": "Feature"
@@ -2245,7 +2167,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Texas QLD"
             },
             "type": "Feature"
@@ -2272,7 +2193,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "Bedourie QLD"
             },
             "type": "Feature"
@@ -2676,7 +2596,6 @@
                 "type": "Point"
             },
             "properties": {
-                "is_in:state_code": "QLD",
                 "name": "McKinlay QLD"
             },
             "type": "Feature"
