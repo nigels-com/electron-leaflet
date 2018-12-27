@@ -6,12 +6,17 @@
 
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css" />
   <link rel="stylesheet" href="node_modules/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="node_modules/leaflet-search/dist/leaflet-search.min.css" />
   <link rel="stylesheet" href="node_modules/leaflet.coordinates/dist/Leaflet.Coordinates-0.1.5.css" />
+  <link rel="stylesheet" href="node_modules/leaflet.fullscreen/Control.FullScreen.css" />
+  <link rel="stylesheet" href="node_modules/leaflet.awesome-markers/dist/leaflet.awesome-markers.css" />
   <script src="node_modules/leaflet/dist/leaflet.js"></script>
   <script src="node_modules/leaflet-search/dist/leaflet-search.min.js"></script>
   <script src="node_modules/leaflet.coordinates/dist/Leaflet.Coordinates-0.1.5.min.js"></script>
+  <script src="node_modules/leaflet.fullscreen/Control.FullScreen.js"></script>
+  <script src="node_modules/leaflet.awesome-markers/dist/leaflet.awesome-markers.min.js"></script>
   <script src="node_modules/jquery/dist/jquery.min.js"></script>
 
   <style>
@@ -33,9 +38,12 @@
 
 <script>
   var map = L.map('map', {
-    center: [39.73, -104.99],
     center: [-26, 135],  // Australia
-    zoom: 4
+    zoom: 4,
+    fullscreenControl: true,
+      fullscreenControlOptions: {
+        position: 'topleft'
+      }
   });
 
   L.control.coordinates({position: "bottomleft"}).addTo(map);
@@ -46,97 +54,51 @@
   {
     if (feature.properties && feature.properties.name)
     {
-      layer.bindTooltip(feature.properties.name, {permanent: false, opacity: 0.7}).openTooltip();
+      layer.bindTooltip(feature.properties.name, {permanent: false, opacity: 0.8}).openTooltip();
     }
   }
 
-  var citiesLayer = L.geoJSON(null, {
-    onEachFeature: onEachFeature,
-    pointToLayer: function (feature, latlng) {
-      return L.circleMarker(latlng, {
-        radius: 8,
-        fillColor: "#0078ff",
-        color: "#000000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.5
-      });
-    }
-  });
+  //
 
-  var townsLayer = L.geoJSON(null, {
-    onEachFeature: onEachFeature,
-    pointToLayer: function (feature, latlng) {
-      return L.circleMarker(latlng, {
-        radius: 6,
-        fillColor: "#404080",
-        color: "#000000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.5
-      });
-    }
-  });
+  L.AwesomeMarkers.Icon.prototype.options.prefix = 'fa';
 
-  var suburbLayer = L.geoJSON(null, {
-    onEachFeature: onEachFeature,
-    pointToLayer: function (feature, latlng) {
-      return L.circleMarker(latlng, {
-        radius: 4,
-        fillColor: "#802020",
-        color: "#000000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.5
-      });
-    }
-  });
+  var cityIcon = L.AwesomeMarkers.icon({ icon: 'circle', markerColor: 'black' });
+  var cityLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: cityIcon }); }});
+  $.getJSON( "AU-QLD-place-city.geojson", function( data ) { cityLayer.addData(data); });
 
-  var villageLayer = L.geoJSON(null, {
-    onEachFeature: onEachFeature,
-    pointToLayer: function (feature, latlng) {
-      return L.circleMarker(latlng, {
-        radius: 4,
-        fillColor: "#101020",
-        color: "#000000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.5
-      });
-    }
-  });
+  var townIcon = L.AwesomeMarkers.icon({ icon: 'circle', markerColor: 'gray' });
+  var townLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: townIcon }); }});
+  $.getJSON( "AU-QLD-place-town.geojson", function( data ) { townLayer.addData(data); });
 
-  var hamletLayer = L.geoJSON(null, {
-    onEachFeature: onEachFeature,
-    pointToLayer: function (feature, latlng) {
-      return L.circleMarker(latlng, {
-        radius: 4,
-        fillColor: "#802020",
-        color: "#000000",
-        weight: 1,
-        opacity: 1,
-        fillOpacity: 0.5
-      });
-    }
-  });
+  var suburbIcon = L.AwesomeMarkers.icon({ icon: 'circle', markerColor: 'lightgray' });
+  var suburbLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: suburbIcon }); }});
+  $.getJSON( "AU-QLD-place-suburb.geojson", function( data ) { suburbLayer.addData(data); });
 
-  $.getJSON( "AU-QLD-place-city.geojson", function( data ) {
-    citiesLayer.addData(data);
-          });
-  $.getJSON( "AU-QLD-place-town.geojson", function( data ) {
-    townsLayer.addData(data);
-          });
-  $.getJSON( "AU-QLD-place-suburb.geojson", function( data ) {
-      suburbLayer.addData(data);
-          });
-  $.getJSON( "AU-QLD-place-village.geojson", function( data ) {
-    villageLayer.addData(data);
-          });
-  $.getJSON( "AU-QLD-place-hamlet.geojson", function( data ) {
-    hamletLayer.addData(data);
-        });
+  var villageIcon = L.AwesomeMarkers.icon({ icon: 'circle', markerColor: 'lightblue' });
+  var villageLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: villageIcon }); }});
+  $.getJSON( "AU-QLD-place-village.geojson", function( data ) { villageLayer.addData(data); });
 
-  var searchLayer = L.layerGroup([citiesLayer, townsLayer, suburbLayer, villageLayer, hamletLayer]);
+  var hamletIcon = L.AwesomeMarkers.icon({ icon: 'circle', markerColor: 'lightblue' });
+  var hamletLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: hamletIcon }); }});
+  $.getJSON( "AU-QLD-place-hamlet.geojson", function( data ) { hamletLayer.addData(data); });
+
+  //
+
+  var restaurantIcon = L.AwesomeMarkers.icon({ icon: 'circle', markerColor: 'blue' });
+  var restaurantLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: restaurantIcon }); }});
+  $.getJSON( "AU-QLD-amenity-restaurant.geojson", function( data ) { restaurantLayer.addData(data); });
+
+  var cafeIcon = L.AwesomeMarkers.icon({ icon: 'coffee', markerColor: 'blue' });
+  var cafeLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: cafeIcon }); }});
+  $.getJSON( "AU-QLD-amenity-cafe.geojson", function( data ) { cafeLayer.addData(data); });
+
+  var pubIcon = L.AwesomeMarkers.icon({ icon: 'beer', markerColor: 'blue' });
+  var pubLayer = L.geoJSON(null, { onEachFeature: onEachFeature, pointToLayer: function (feature, latlng) { return L.marker(latlng, {icon: pubIcon }); }});
+  $.getJSON( "AU-QLD-amenity-pub.geojson", function( data ) { pubLayer.addData(data); });
+
+  //
+
+  var searchLayer = L.layerGroup([cityLayer, townLayer, suburbLayer, villageLayer, hamletLayer]);
   var searchControl = new L.Control.Search({
         layer: searchLayer,
         propertyName: 'name',
@@ -227,7 +189,17 @@
       "ESRI World Imagery":        Esri_WorldImagery,
       "ESRI World Gray":           Esri_WorldGrayCanvas
     },
-    {"Cities": citiesLayer, "Towns": townsLayer, "Villages": villageLayer, "Suburbs": suburbLayer, "Hamlet": hamletLayer}
+    {
+       "Cities": cityLayer,
+       "Towns": townLayer,
+       "Suburbs": suburbLayer,
+       "Villages": villageLayer,
+       "Hamlet": hamletLayer,
+
+       "Restaurant": restaurantLayer,
+       "Pub": pubLayer,
+       "Cafe": cafeLayer,
+     }
   ).addTo(map);
 
 </script>
